@@ -1,5 +1,83 @@
 [
   {
+    "id": "33862",
+    "name": "Greek Salad",
+    "category": "Side",
+    "area": "Greek",
+    "ingredients": [
+      "2 Tomatoes",
+      "1 Cucumber",
+      "100g Feta",
+      "Olives",
+      "Olive Oil"
+    ],
+    "instructions": [
+      "Chop tomatoes and cucumber",
+      "Add olives and feta",
+      "Drizzle olive oil",
+      "Season with oregano"
+    ]
+  },
+  {
+    "id": "67388",
+    "name": "Pad Thai",
+    "category": "Noodles",
+    "area": "Thai",
+    "ingredients": [
+      "200g Rice Noodles",
+      "200g Shrimp",
+      "3 tbsp Fish Sauce",
+      "2 Eggs",
+      "Bean Sprouts"
+    ],
+    "instructions": [
+      "Soak noodles",
+      "Stir fry shrimp",
+      "Push aside and scramble eggs",
+      "Add noodles and sauce",
+      "Top with sprouts"
+    ]
+  },
+  {
+    "id": "58370",
+    "name": "Margherita Pizza",
+    "category": "Pizza",
+    "area": "Italian",
+    "ingredients": [
+      "300g Pizza Dough",
+      "200ml Tomato Sauce",
+      "150g Mozzarella",
+      "Fresh Basil",
+      "Olive Oil"
+    ],
+    "instructions": [
+      "Roll out dough",
+      "Spread tomato sauce",
+      "Add mozzarella",
+      "Bake at 220C for 12 mins",
+      "Top with basil"
+    ]
+  },
+  {
+    "id": "51366",
+    "name": "Beef Tacos",
+    "category": "Beef",
+    "area": "Mexican",
+    "ingredients": [
+      "300g Beef Mince",
+      "8 Taco Shells",
+      "1 Onion",
+      "2 Tomatoes",
+      "Sour Cream"
+    ],
+    "instructions": [
+      "Brown beef with onion",
+      "Season with cumin and chili",
+      "Warm taco shells",
+      "Assemble with toppings"
+    ]
+  },
+  {
     "id": "53262",
     "name": "Adana kebab",
     "category": "Lamb",
@@ -15739,6 +15817,46 @@
       "50g Parmesan",
       "Salt",
       "Black Pepper"
+    ]
+  },
+  {
+    "id": "61710",
+    "name": "Spaghetti Carbonara",
+    "category": "Pasta",
+    "area": "Italian",
+    "ingredients": [
+      "200g Spaghetti",
+      "100g Pancetta",
+      "2 Eggs",
+      "50g Parmesan",
+      "Black Pepper"
+    ],
+    "instructions": [
+      "Boil pasta",
+      "Fry pancetta until crispy",
+      "Mix eggs and parmesan",
+      "Combine all off heat",
+      "Season with pepper"
+    ]
+  },
+  {
+    "id": "48700",
+    "name": "Chicken Tikka Masala",
+    "category": "Chicken",
+    "area": "Indian",
+    "ingredients": [
+      "500g Chicken",
+      "200ml Yogurt",
+      "2 tbsp Tikka Paste",
+      "400ml Tomato Sauce",
+      "100ml Cream"
+    ],
+    "instructions": [
+      "Marinate chicken in yogurt and paste",
+      "Grill chicken",
+      "Make tomato sauce",
+      "Add cream",
+      "Combine and simmer"
     ]
   }
 ]
